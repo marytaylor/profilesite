@@ -52,7 +52,7 @@ export default function Hero() {
           </div>
 
           <p className="text-lg text-foreground leading-relaxed max-w-xl mb-4">
-            I&apos;ve spent 12+ years turning complex AI capabilities into products people actually use: conversational agents, LLM-powered systems, agentic workflows, and the governance frameworks that make them safe to ship.
+            I&apos;ve spent 12+ years turning complex AI/ML capabilities into products people actually use: conversational agents, LLM-powered systems, predictive analytics, and governance frameworks that make them safe to ship.
           </p>
           <p className="text-base text-muted leading-relaxed max-w-xl mb-10">
             Leading AI product at UserTesting. Building OpenSprouts on the side — starting from zero users.
